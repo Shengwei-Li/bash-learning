@@ -1,0 +1,4 @@
+ID	Name	Gender	Mark
+1	Li	M	100
+2	ZHANG	M	90
+3	si	M	83	
